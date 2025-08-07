@@ -35,7 +35,7 @@ python web2apk.py -zip path_to_your_zip_file -icon path_to_your_desired_icon -na
 #### Platforms
 > Supported Platform : **`Windows`**, **`Mac-OS`**, **`Ubuntu/Debian/Kali/Parrot/Arch Linux`**<br>
 <hr>
-
+<strong>Other project: <a href="https://github.com/77AXEL/CNN-FS">https://github.com/77AXEL/CNN-FS</a></strong>
 <img src="https://img.shields.io/badge/Author-A.X.E.L-red?style=flat-square;"></img>
 <img src="https://img.shields.io/badge/Open Source-Yes-red?style=flat-square;"></img>
 
