@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-        <resources>
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
             <string name="abc_action_bar_home_description">Navigate home</string>
             <string name="abc_action_bar_up_description">Navigate up</string>
             <string name="abc_action_menu_overflow_description">More options</string>
@@ -28,7 +28,7 @@
             <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
             <string name="abc_toolbar_collapse_description">Collapse</string>
             <string name="androidx_startup">androidx.startup</string>
-            <string name="app_name">myapp</string>
+            <string name="app_name">AppName</string>
             <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
             <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
             <string name="bottomsheet_action_collapse">Collapse the bottom sheet</string>
@@ -168,4 +168,3 @@
             <string name="side_sheet_behavior">com.google.android.material.sidesheet.SideSheetBehavior</string>
             <string name="status_bar_notification_info_overflow">999+</string>
         </resources>
-        
