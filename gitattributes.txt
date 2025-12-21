@@ -1,0 +1,2 @@
+*.py linguist-language=Python
+*.smali linguist-language=Smali linguist-detectable=False
