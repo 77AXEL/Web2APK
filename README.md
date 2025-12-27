@@ -79,7 +79,7 @@ my-web-project/
     └── images/
 ```
 
-<img src="https://github.com/77AXEL/Web2APK/blob/main/images/cap2.png" alt="Project Structure" width="600">
+<img src="https://github.com/77AXEL/Web2APK/blob/main/images/cap2.png" alt="Project Structure" width="200" height="200">
 
 ### Step 2: Compress Your Project
 
